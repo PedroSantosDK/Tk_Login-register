@@ -1,2 +1,2 @@
 # Tkinter
- my first system with the Tkinter library.
+ Meu primeiro sistema com a biblioteca Tkinter.
